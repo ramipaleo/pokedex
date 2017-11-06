@@ -1,0 +1,6 @@
+.pokemon-view {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 85%;
+}
